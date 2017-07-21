@@ -1,0 +1,5 @@
+node_modules/
+tsout/
+server.log
+
+.DS_Store
